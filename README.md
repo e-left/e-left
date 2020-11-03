@@ -1,16 +1,19 @@
 ### Hi there 👋
 
 ## Who am I ❔
-Hello! My name is Fotis Alexandridis, I am a 19 year old undergaduate university student, and I like to write code and create stuff.
+Student, developer, gamer.
 
 ## What do I do ✔
-I create web and mobile applications, using languages like Go, Python, Javascript, HTML and CSS and frameworks like Flutter, Flask and Express.
-I also work with algorithms, data structures, and large systems using primarily C++ and sometimes Java. I also work with databases like MySQL, PostgreSQL, MongoDB
-and platforms like Firebase, Google Cloud Platform and DigitalOcean. I'm also looking forward to expanding to the field of AI and Machine Learning using Tensorflow.
+Mostly develop full stack web apps (with python and javascript). I sometimes dabble with some mobile android development (using Flutter and native Java) and lately I've been studying some machine learning using Tensorflow.
 
 ## What do I use 💬
-My primary text editors are Vim and Visual Studio Code, both open source. My Vim configuration file can be found on my dotfiles repository. 
-My laptop runs on POP!\_OS and my desktop on Windows, with the WSL 2 system on it.
+My text editors list consists of Visual Studio Code and Vim. I write code on windows using WSL2
+
+## Currently learning💭
+Tensorflow, using the Keras API's.
+
+## Currently working on💹
+Creating a web platform called yeethub, a platform to share bad working code.
 
 <!--
 **e-left/e-left** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
