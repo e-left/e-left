@@ -4,7 +4,7 @@
 Student, developer, gamer.
 
 ## What do I do ✔
-Mostly develop full stack web apps (with python and javascript). I sometimes dabble with some mobile android development (using Flutter and native Java) and lately I've been studying some machine learning using Tensorflow.
+Mostly develop full stack web apps (with python and javascript). I sometimes dabble with some mobile android development (using Flutter) and lately I've been studying some machine learning using Tensorflow.
 
 ## What do I use 💬
 My text editors list consists of Visual Studio Code and Vim. I write code on windows using WSL2
