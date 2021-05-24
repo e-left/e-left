@@ -13,7 +13,7 @@ My text editors list consists of Visual Studio Code and Vim. I write code on win
 Tensorflow, using the Keras API's.
 
 ## Currently working on💹
-Creating a web platform called yeethub, a platform to share bad working code.
+Creating a (currently secret) web app, that will revolutionize post-COVID housing.
 
 <!--
 **e-left/e-left** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
